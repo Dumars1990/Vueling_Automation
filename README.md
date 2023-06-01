@@ -1,6 +1,6 @@
 # Automatización de la web de venta de billetes de Vueling
 
-Este proyecto es una automatización de la web de venta de billetes de Vueling, utilizando Java, Selenium, TestNG y el patrón de diseño Page Object Model.
+Este proyecto es una automatización de la web de venta de billetes de Vueling, utilizando Java, Selenium y el patrón de diseño Page Object Model.
 
 ## Requisitos
 
@@ -13,9 +13,6 @@ Este proyecto es una automatización de la web de venta de billetes de Vueling, 
 
 1. Clona el repositorio en tu máquina local:
 git clone https://github.com/Dumars1990/Vueling_Automation.git
-
-markdown
-Copy code
 
 2. Importa el proyecto en tu IDE (por ejemplo, IntelliJ IDEA) como un proyecto Maven existente.
 
