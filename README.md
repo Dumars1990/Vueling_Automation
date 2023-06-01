@@ -66,7 +66,7 @@ Vueling_Automation
 
 ## Reporting
 
-Este proyecto utiliza el framework de reportes ExtentReports para generar informes detallados de las pruebas ejecutadas. Los informes se generan automáticamente después de cada ejecución y se guardan en la carpeta `test-output/ExtentReport.html`.
+Para generar informes detallados de las pruebas ejecutadas. Los informes se generan automáticamente después de cada ejecución y se guardan en la carpeta `test-output/cucumber-reports`.
 
 ## Contribución
 
